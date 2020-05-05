@@ -50,5 +50,5 @@ public class RestExceptionHandler {
     	return new ResponseEntity<NoResultException>(
                 exc, HttpStatus.INTERNAL_SERVER_ERROR);
     }
-
+ 
 }
