@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="technical-db">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/technical/technical-db/target/technical-db.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
