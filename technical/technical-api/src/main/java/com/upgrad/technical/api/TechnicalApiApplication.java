@@ -14,3 +14,4 @@ public class TechnicalApiApplication {
 		SpringApplication.run(TechnicalApiApplication.class, args);
 	}
 }
+ 
