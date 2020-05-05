@@ -1,1 +1,11 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/technical-api/technical-api.iml" filepath="$PROJECT_DIR$/technical-api/technical-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/technical/technical-api/technical-api1.iml" filepath="$PROJECT_DIR$/technical/technical-api/technical-api1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/technical-service/technical-service.iml" filepath="$PROJECT_DIR$/technical-service/technical-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/technical/technical-service/technical-service1.iml" filepath="$PROJECT_DIR$/technical/technical-service/technical-service1.iml" />
+    </modules>
+  </component>
+</project>
