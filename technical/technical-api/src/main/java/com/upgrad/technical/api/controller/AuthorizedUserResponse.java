@@ -8,5 +8,5 @@ public class AuthorizedUserResponse {
 		// TODO Auto-generated method stub
 		return null;
 	}
-
+ 
 }
