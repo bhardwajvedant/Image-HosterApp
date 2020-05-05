@@ -343,7 +343,7 @@
         "example": {
           "code": "USR-001",
           "message": "Email address already exist"
-        }
+        } 
       }
     }
   }
