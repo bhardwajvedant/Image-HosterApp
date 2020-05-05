@@ -31,7 +31,7 @@ public class AuthenticationController {
 
         UserAuthTokenEntity userAuthToken = authenticationService.authenticate(userdeatils.getEmail(),userdeatils.getPassword());
 
-        UserEntity user = userAuthToken.getUser();
+        UserEntity user = userAuthToken.getUser(); 
 
       /*  AuthorizedUserResponse authorizedUserResponse = new AuthorizedUserResponse().id(UUID.fromString(user.getUuid()))
                 .firstName(user.getFirstName()).lastName(user.getLastName()).emailAddress(user.getEmail()).mobilePhone(user.getMobilePhone())
