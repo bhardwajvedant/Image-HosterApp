@@ -41,7 +41,7 @@ public class SignupController {
         userEntity.setLastName(signupUserRequest.getLastName());
         userEntity.setEmail(signupUserRequest.getEmail());
    //   String password =  passwordCryptographyProvider.encrypt(signupUserRequest.getPassword(),"1234abc");
-        
+         
         userEntity.setPassword(signupUserRequest.getPassword());
         userEntity.setMobilePhone(signupUserRequest.getMobilePhone());
         userEntity.setSalt("1234abc");
