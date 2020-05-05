@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: technical-db
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: mac
+Implementation-Vendor-Id: com.upgrad.technical
+Build-Jdk: 1.8.0_111
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/technical/technical-db
+Created-By: Maven Integration for Eclipse
+
