@@ -13,7 +13,7 @@ spring:
     url: jdbc:postgresql://localhost:5432/imageHoster
     username: postgres
     password: welcome@123
-
+ 
   jpa:
     properties:
       hibernate:
