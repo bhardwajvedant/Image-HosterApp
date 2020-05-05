@@ -20,3 +20,4 @@ public class SwaggerConfiguration {
         return new Docket(DocumentationType.SWAGGER_2).select().apis(RequestHandlerSelectors.basePackage("com.upgrad.technical.api.controller")).paths(PathSelectors.any()).build();
     }
 }
+ 
