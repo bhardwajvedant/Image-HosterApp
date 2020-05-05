@@ -40,7 +40,6 @@ public class ImageUploadController {
             createdimageEntity.setStatus("IMAGE SUCCESSFULLY REGISTERED");
             return new ResponseEntity<>(createdimageEntity,HttpStatus.CREATED);
         
-      
 
 
     }
