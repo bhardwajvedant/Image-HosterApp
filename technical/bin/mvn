@@ -197,3 +197,4 @@ exec "$JAVACMD" \
   "-Dlibrary.jansi.path=${MAVEN_HOME}/lib/jansi-native" \
   "-Dmaven.multiModuleProjectDirectory=${MAVEN_PROJECTBASEDIR}" \
   ${CLASSWORLDS_LAUNCHER} "$@"
+  
